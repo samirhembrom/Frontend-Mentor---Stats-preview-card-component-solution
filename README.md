@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -13,10 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-
 ## Overview
-
 
 ### Screenshot
 
@@ -26,7 +23,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - [Solution URL](https://github.com/samirhembrom/Frontend-Mentor---Stats-preview-card-component-solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://frontend-mentor-stats-preview-card-component-solutio-4m6bv7pr3.vercel.app/)
 
 ## My process
 
@@ -41,7 +38,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### What I learned
 
 I used mix-blend-mode proeprty in css. It is used for bledning color of the element background.
-
 
 ```css
 .container__img::before {
@@ -58,11 +54,9 @@ I used mix-blend-mode proeprty in css. It is used for bledning color of the elem
 }
 ```
 
-
 ### Useful resources
 
 - [Example resource 1](https://css-tricks.com/almanac/properties/m/mix-blend-mode/) - This helped me for mix-blend-mode property.
-
 
 ## Author
 
