@@ -187,10 +187,11 @@ li:not(:first-child) {
     }
   }
 
-  .container__img::before {
-    filter: blur(10px);
+  .container__img {
+    filter: blur(4px);
     animation: unBlur 1.35s forwards calc(1.35s * 4);
   }
+
   @keyframes unBlur {
     100% {
       filter: blur(0);
